@@ -1,0 +1,7 @@
+pyarrow
+ipykernel
+jupyter
+tqdm
+polars
+matplotlib
+seaborn
