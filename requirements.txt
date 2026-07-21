@@ -5,3 +5,5 @@ tqdm
 polars
 matplotlib
 seaborn
+pyahocorasick
+mecab-python
